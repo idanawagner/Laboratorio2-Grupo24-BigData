@@ -11,7 +11,7 @@ Este proyecto se centra en la creación de un clasificador de canciones de Spoti
 
 ## Conjunto de Datos
 
-El conjunto de datos proporcionado incluye 16 columnas, donde 13 representan atributos específicos de las canciones. Además, se incluyen columnas para el nombre de la canción y el nombre del artista. La columna "destino" actúa como etiqueta, indicando las preferencias del usuario con un valor de "1" para canciones que le gustaron y "0" para las que no.
+El conjunto de datos proporcionado incluye 16 columnas, donde 13 representan atributos específicos de las canciones. Además, se incluyen columnas para el nombre de la canción y el nombre del artista. La columna "target" actúa como etiqueta, indicando las preferencias del usuario con un valor de "1" para canciones que le gustaron y "0" para las que no.
 
 ### Atributos de las Canciones
 
@@ -71,4 +71,5 @@ Este proyecto será desarrollado en un entorno de Notebook de Google Colab. Cada
 
 ## Conclusiones
 
-Al finalizar este proyecto, esperamos tener un clasificador de canciones de Spotify bien entrenado y evaluado, capaz de predecir las preferencias de un usuario con precisión. Los resultados y conclusiones finales se incluirán en el informe final.
+Al finalizar este proyecto, esperamos tener un clasificador de canciones de Spotify bien entrenado y evaluado, capaz de predecir las preferencias de un usuario con precisión. 
+Los resultados y conclusiones finales se incluyen en el notebook.
